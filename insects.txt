@@ -11,3 +11,5 @@ Hornet
 Stinkbug
 Termite
 Wasp
+Locust
+Louse

@@ -11,3 +11,4 @@ Shark
 Stingray
 Trout
 Salmon
+Jellyfish
