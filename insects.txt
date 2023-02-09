@@ -4,5 +4,12 @@ Butterfly
 Caterpillar
 Cockroach
 Dragonfly
+Fly
+Gnat
+Grasshopper
+Hornet
+Stinkbug
+Termite
+Wasp
 Locust
 Louse
