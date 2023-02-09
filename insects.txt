@@ -2,3 +2,5 @@ Ant
 Bee
 Butterfly
 Caterpillar
+Cockroach
+Dragonfly
